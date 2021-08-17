@@ -7,7 +7,7 @@ The shell is a command-line interpreter or shell that provides a command line us
 Installation
 You can install the simple shell cloning this repo:
 
-$ git clone https://github.com/andreammgcol/simple_shell.git
+$ git clone https://github.com/Mercybyt/simple_shell.git
 Next you can compile the files with this command:
 
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
